@@ -20,3 +20,51 @@
 .App-link {
   color: #09d3ac;
 }
+
+nav {
+  background-color: #28A745;
+  margin: 0 auto;
+  padding: 2%;
+}
+nav h1 {
+  color: white;
+  font-size: 2rem;
+  margin: 0 auto;
+}
+
+input {
+  margin: 1% auto;
+  font-size: 1.4rem;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.todo {
+  padding: 5px;
+  color: #17A2B8;
+  margin: 10px auto;
+  width: 30%;
+  font-size: 1.4rem;
+}
+
+.submit-btn {
+  border-radius: .5rem;
+  width: 16%;
+  font-size: 1.5rem;
+  margin: 0 auto;
+  background-color: #007bff;
+  color: white;
+  margin-right: 10px;
+}
+
+.clear-btn {
+  border-radius: .5rem;
+  margin-left: 10px;
+  width: 16%;
+  font-size: 1.5rem;
+  margin: 1% auto;
+  background-color: #DC3545;
+  color: white;
+}
